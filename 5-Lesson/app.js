@@ -47,3 +47,18 @@
 // CamelCase
 // userNameSurName
 // studentScore
+
+// return
+// function sayHello() {
+//     return 1
+// }
+// console.log(sayHello());
+
+// Shadow variable
+// let age = 10;
+
+// function ageCalculate() {
+//     let age = 5;
+//     console.log(age * 7);
+// }
+// ageCalculate()
